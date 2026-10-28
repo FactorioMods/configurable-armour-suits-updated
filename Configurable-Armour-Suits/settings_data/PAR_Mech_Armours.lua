@@ -7,7 +7,7 @@ if mods["PARs-SpaceAge-Extension"] then
             minimum_value = 0,
             maximum_value = 400,
             default_value = 40,
-            order = "1Baa"
+            order = "ParMech-01"
         },
         {
             type = "int-setting",
@@ -16,7 +16,7 @@ if mods["PARs-SpaceAge-Extension"] then
             minimum_value = 0,
             maximum_value = 400,
             default_value = 40,
-            order = "1Bab"
+            order = "ParMech-02"
         },
         {
             type = "int-setting",
@@ -25,7 +25,7 @@ if mods["PARs-SpaceAge-Extension"] then
             minimum_value = 0,
             maximum_value = 600,
             default_value = 60,
-            order = "1Bac"
+            order = "ParMech-03"
         },
         {
             type = "int-setting",
@@ -34,7 +34,7 @@ if mods["PARs-SpaceAge-Extension"] then
             minimum_value = 0,
             maximum_value = 600,
             default_value = 60,
-            order = "1Bad"
+            order = "ParMech-04"
         },
         {
             type = "int-setting",
@@ -43,7 +43,7 @@ if mods["PARs-SpaceAge-Extension"] then
             minimum_value = 0,
             maximum_value = 800,
             default_value = 80,
-            order = "1Bae"
+            order = "ParMech-05"
         },
         {
             type = "int-setting",
@@ -52,7 +52,7 @@ if mods["PARs-SpaceAge-Extension"] then
             minimum_value = 0,
             maximum_value = 800,
             default_value = 80,
-            order = "1Baf"
+            order = "ParMech-06"
         },
         {
             type = "int-setting",
@@ -61,7 +61,7 @@ if mods["PARs-SpaceAge-Extension"] then
             minimum_value = 0,
             maximum_value = 1000,
             default_value = 100,
-            order = "1Bag"
+            order = "ParMech-07"
         },
         {
             type = "int-setting",
@@ -70,7 +70,7 @@ if mods["PARs-SpaceAge-Extension"] then
             minimum_value = 0,
             maximum_value = 1000,
             default_value = 100,
-            order = "1Bag"
+            order = "ParMech-08"
         },
         {
             type = "int-setting",
@@ -79,7 +79,7 @@ if mods["PARs-SpaceAge-Extension"] then
             minimum_value = 0,
             maximum_value = 1200,
             default_value = 120,
-            order = "1Bah"
+            order = "ParMech-09"
         },
         {
             type = "int-setting",
@@ -88,7 +88,7 @@ if mods["PARs-SpaceAge-Extension"] then
             minimum_value = 0,
             maximum_value = 1200,
             default_value = 120,
-            order = "1Bai"
+            order = "ParMech-10"
         },
         -- Inventory
         {
@@ -98,7 +98,7 @@ if mods["PARs-SpaceAge-Extension"] then
             minimum_value = 0,
             maximum_value = 1500,
             default_value = 150,
-            order = "2Baa"
+            order = "ParMech-11"
         },
         {
             type = "int-setting",
@@ -107,7 +107,7 @@ if mods["PARs-SpaceAge-Extension"] then
             minimum_value = 0,
             maximum_value = 3000,
             default_value = 300,
-            order = "2Bab"
+            order = "ParMech-12"
         },
         {
             type = "int-setting",
@@ -116,7 +116,7 @@ if mods["PARs-SpaceAge-Extension"] then
             minimum_value = 0,
             maximum_value = 4500,
             default_value = 450,
-            order = "2Bac"
+            order = "ParMech-13"
         },
         {
             type = "int-setting",
@@ -125,7 +125,7 @@ if mods["PARs-SpaceAge-Extension"] then
             minimum_value = 0,
             maximum_value = 6000,
             default_value = 600,
-            order = "2Bad"
+            order = "ParMech-14"
         },
         {
             type = "int-setting",
@@ -134,7 +134,7 @@ if mods["PARs-SpaceAge-Extension"] then
             minimum_value = 0,
             maximum_value = 7500,
             default_value = 750,
-            order = "2Bae"
+            order = "ParMech-15"
         },
     })
 end

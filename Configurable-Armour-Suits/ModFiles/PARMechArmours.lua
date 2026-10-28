@@ -1,11 +1,11 @@
 local inv_grid = require("folder-of-functions.local-functions")
 
 if mods["PARs-SpaceAge-Extension"] then
-	inv_grid.SetGridSize("1-equipment-grid", "par-mech-1")
-	inv_grid.SetGridSize("2-equipment-grid", "par-mech-2")
-	inv_grid.SetGridSize("3-equipment-grid", "par-mech-3")
-	inv_grid.SetGridSize("4-equipment-grid", "par-mech-4")
-	inv_grid.SetGridSize("5-equipment-grid", "par-mech-5")
+	inv_grid.SetGridSize("par-mech-armour-mk1-equipment-grid", "par-mech-1")
+	inv_grid.SetGridSize("par-mech-armour-mk2-equipment-grid", "par-mech-2")
+	inv_grid.SetGridSize("par-mech-armour-mk3-equipment-grid", "par-mech-3")
+	inv_grid.SetGridSize("par-mech-armour-mk4-equipment-grid", "par-mech-4")
+	inv_grid.SetGridSize("par-mech-armour-mk5-equipment-grid", "par-mech-5")
 
 	inv_grid.SetInvSize("par-mech-armour-mk1", "m-mech-cas-1-")
 	inv_grid.SetInvSize("par-mech-armour-mk2", "m-mech-cas-2-")
