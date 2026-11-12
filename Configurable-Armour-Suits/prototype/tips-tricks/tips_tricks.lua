@@ -16,7 +16,7 @@ data:extend({
 		type = "tips-and-tricks-item",
 		name = "cas-info",
 		category = "configurable-armour-suits",
-		image = "__Configurable-Armour-Suits__/graphics/tips/tips-settings.png",
+		image = "__configurable-armour-suits-updated__/graphics/tips/tips-settings.png",
 		indent = 1,
 		order = "1AB",
 		starting_status = "unlocked",

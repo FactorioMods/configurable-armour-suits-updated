@@ -1,4 +1,4 @@
-if mods["metal-and-stars"] then
+if (mods["metal-and-stars"] or mods["metal-and-stars-updated"]) then
     if not mods["Power-Armour-Replacer"] and not mods["PARs-SpaceAge-Extension"] then
         data:extend({
             {
